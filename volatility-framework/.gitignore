@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Ignore data artifacts
+data/raw/*
+data/processed/*
